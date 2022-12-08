@@ -1,0 +1,8 @@
+:root {
+--offwhite:  rgb(248, 239, 226);
+
+}
+
+.navbar {
+    background-color: var(--offwhite);
+}
