@@ -1,8 +1,19 @@
-:root {
---offwhite:  rgb(248, 239, 226);
-
+body {
+    background-color:  rgb(243, 240, 235);
 }
+
+:root {
+--offwhite:  rgb(243, 237, 229);
+}
+
+.navbar-expand-lg{
+   
+}
+
+
 
 .navbar {
     background-color: var(--offwhite);
+ 
 }
+
