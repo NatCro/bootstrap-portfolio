@@ -1,8 +1,28 @@
-:root {
---offwhite:  rgb(248, 239, 226);
+body {
+    background-color:  rgb(243, 240, 235);
+}
 
+:root {
+--offwhite:  rgb(243, 237, 229);
 }
 
 .navbar {
     background-color: var(--offwhite);
+
+ 
+}
+
+nav ul {
+    width: 80%;
+    display: flex ;
+    margin:auto;
+}
+
+.nav-link{
+    color:#696b6b;
+    text-decoration: none;
+}
+.navbar-brand{
+    color:#696b6b;
+    font-size: 130%;
 }
