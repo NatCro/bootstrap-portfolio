@@ -27,6 +27,21 @@ nav ul {
     font-size: 130%;
 }
 
+.nav-link:hover {
+    background-color:rgba(223, 218, 211, 0.514); 
+    color: #212529; 
+        color: #212529; 
+  }
+
+  .navbar-brand:hover {
+ 
+    color: #212529; 
+        background-color:rgba(223, 218, 211, 0.514); 
+        color: #212529; 
+        width: 6%;
+        border-radius: 20%;
+  }
+
 .jumbotron {
     background-image: url(../assets/sunset-background.JPG);
     background-size: cover;
