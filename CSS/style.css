@@ -26,3 +26,18 @@ nav ul {
     color:#696b6b;
     font-size: 130%;
 }
+
+.jumbotron {
+    background-image: url(../assets/sunset-background.JPG);
+    background-size: cover;
+}
+
+.jumbotron-fluid {
+
+height: 250px;
+
+}
+
+.avatar {
+    border-radius: 50%;
+}
