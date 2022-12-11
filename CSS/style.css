@@ -134,3 +134,20 @@ justify-content: center;
 width: auto;
 background-color: var(--offwhite);
 }
+
+.links{
+    justify-content: space-between;
+    margin-left:70px;
+    text-decoration: none;
+    color: black;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+}
+
+.card-subtitle{
+    display: flex;
+    justify-content: center;
+}
