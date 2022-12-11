@@ -110,3 +110,27 @@ background-image: url(../assets/world.jpg) !important;
 background-size: cover !important;
 height: 180px;
 }
+
+.btn {
+    background-color: var(--offwhite);
+    color:black;
+    text-shadow:none;
+    border: none;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+  }
+  
+.about-me{
+    display: flex;
+justify-items: center;
+justify-content: center;
+width: auto;
+background-color: var(--offwhite);
+}
