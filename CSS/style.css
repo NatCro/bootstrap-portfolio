@@ -151,3 +151,8 @@ background-color: var(--offwhite);
     display: flex;
     justify-content: center;
 }
+
+.lead{
+    color: var(--offwhite);
+    font-size: 90%;
+}
