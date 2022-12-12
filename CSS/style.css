@@ -156,3 +156,18 @@ background-color: var(--offwhite);
     color: var(--offwhite);
     font-size: 90%;
 }
+
+.nav{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    justify-content: space-around;
+    width: auto;
+     
+}
+
+.nav-item:hover {
+    background-color:rgba(223, 218, 211, 0.514); 
+    color: #212529; 
+
+  }
