@@ -26,3 +26,148 @@ nav ul {
     color:#696b6b;
     font-size: 130%;
 }
+
+.nav-link:hover {
+    background-color:rgba(223, 218, 211, 0.514); 
+    color: #212529; 
+        color: #212529; 
+  }
+
+  .navbar-brand:hover {
+ 
+    color: #212529; 
+        background-color:rgba(223, 218, 211, 0.514); 
+        color: #212529; 
+        width: 6%;
+        border-radius: 20%;
+  }
+
+.jumbotron {
+    background-image: url(../assets/sunset-background.JPG);
+    background-size: cover;
+}
+
+.jumbotron-fluid {
+
+height: 250px;
+
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;    
+}
+
+.container-fluid{
+   display: grid;
+  margin-left: -60px;
+  margin-bottom: 30px;
+  color: var(--offwhite);
+  text-shadow: 1px 1px 1px #000000;
+}
+ul{
+    margin: 0%;
+}
+
+.card-body1{
+background-image: url(../assets/keyboard.jpg) !important;
+background-size: cover !important;
+height: 180px;
+}
+
+.card-body2{
+    background-image: url(../assets/stocks.jpg) !important;
+    background-size: cover !important;
+    height: 180px;
+    }
+
+.card-body3{
+background-image: url(../assets/apps.jpg) !important;
+background-size: cover !important;
+height: 180px;
+}
+.card-body4{
+background-image: url(../assets/windmills.jpg) !important;
+background-size: cover !important;
+height: 180px;
+    }
+
+.card-body5{
+background-image: url(../assets/workspace.jpg) !important;
+background-size: cover !important;
+height: 180px;
+}
+
+.card-body6{
+background-image: url(../assets/world.jpg) !important;
+background-size: cover !important;
+height: 180px;
+}
+
+.btn {
+    background-color: var(--offwhite);
+    color:black;
+    text-shadow:none;
+    border: none;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+  }
+  
+.about-me{
+    display: flex;
+justify-items: center;
+justify-content: center;
+width: auto;
+background-color: var(--offwhite);
+}
+
+.links{
+    justify-content: space-between;
+    margin-left:70px;
+    text-decoration: none;
+    color: black;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+}
+
+.card-subtitle{
+    display: flex;
+    justify-content: center;
+}
+
+.lead{
+    color: var(--offwhite);
+    font-size: 90%;
+}
+
+.nav{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    justify-content: space-around;
+    width: auto;
+     
+}
+
+.nav-item:hover {
+    background-color:rgba(223, 218, 211, 0.514); 
+    color: #212529; 
+
+  }
